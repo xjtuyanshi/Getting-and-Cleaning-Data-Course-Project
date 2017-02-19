@@ -47,4 +47,4 @@ names(extracted_data) <- gsub("^f", "frequency", names(extracted_data))
 #each activity and each subject.
 
 tidy_data<-ddply(extracted_data,c("subject","activity"),numcolwise(mean))
-write.table(tidy_data, file = "tidydata.txt", row.names = TRUE,sep = "\t")
+write.table(tidy_data, file = "tidydata.txt", row.names = FALSE)
