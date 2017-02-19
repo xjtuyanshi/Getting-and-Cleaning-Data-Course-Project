@@ -40,13 +40,13 @@ Activity id column is used to look up descriptions in activity_labels.txt.
 
 Variables name have been changed
 * to obtain valid R names without parentheses"()", dashes"-" and commas","
-* clearer names
-    *Variable names have been changed by following way to properly descripe variables
-    *Acc -> Accelerator
-    *Mag -> Magnitute
-    *Gyro -> Gyroscope
-    *t -> time
-    *f -> frequency
+* clearer name
+    * Variable names have been changed by following way to properly descripe variables
+    * Acc -> Accelerator
+    * Mag -> Magnitute
+    * Gyro -> Gyroscope
+    * t -> time
+    * f -> frequency
     
 ### Create a tidy data set
 
