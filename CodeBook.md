@@ -42,12 +42,12 @@ Variables name have been changed
 * to obtain valid R names without parentheses"()", dashes"-" and commas","
 * clearer name
     * Variable names have been changed by following way to properly descripe variables
-    * Acc -> Accelerator
-    * Mag -> Magnitute
-    * Gyro -> Gyroscope
-    * t -> time
-    * f -> frequency
-    
+     * Acc -> Accelerator
+     * Mag -> Magnitute
+     * Gyro -> Gyroscope
+     * t -> time
+     * f -> frequency
+
 ### Create a tidy data set
 
 The tidy data set contains 10299 observations with 81 variables
