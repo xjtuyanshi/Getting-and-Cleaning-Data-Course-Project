@@ -38,9 +38,8 @@ Activity id column is used to look up descriptions in activity_labels.txt.
 
 ### Label variables appropriately
 
-Variables name have been changed
-* to obtain valid R names without parentheses"()", dashes"-" and commas","
-* clearer name
+* Delete variables name with parentheses"()", dashes"-" and commas","
+* Clearer name
     * Variable names have been changed by following way to properly descripe variables
      * Acc -> Accelerator
      * Mag -> Magnitute
